@@ -1,7 +1,9 @@
 # Stuff
 .sh
 .pbs
-.safetensors
+*.safetensors
+**/checkpoint-*/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
